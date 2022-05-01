@@ -286,9 +286,12 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll (= 3.9.0)
-  jekyll-feed (~> 0.15.1)
+  jekyll-feed
+  jekyll-gist
   jekyll-include-cache
+  jekyll-paginate
   jekyll-remote-theme
+  jekyll-sitemap
   minima (~> 2.5)
   minimal-mistakes-jekyll
   tzinfo (~> 1.2)

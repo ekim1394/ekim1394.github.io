@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eugene Kim
-subtitle: Another Dev Blog
-name: Eugene Kim
+title: "eugene_kim"
+subtitle: "another.dev.blog"
+name: eugene kim
 email: simplyeugene94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Eugene Kim, a software developer. This is my blog 
